@@ -1,0 +1,6 @@
+# for pycache files
+*.pyc
+
+# for large files
+*.jpg
+*.png

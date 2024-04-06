@@ -1,0 +1,7 @@
+PySide6==6.4.2
+PySide6-Addons==6.4.2
+PySide6-Essentials==6.4.2
+pdfplumber==0.10.3
+pandas==2.1.4
+dataframe-image==0.2.3
+openpyxl==3.1.2
